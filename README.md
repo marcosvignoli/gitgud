@@ -29,4 +29,3 @@ $ npm run build:mac
 $ npm run build:linux
 ```
 
--- Cambio random para testear
