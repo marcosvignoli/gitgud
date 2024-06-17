@@ -29,3 +29,4 @@ $ npm run build:mac
 $ npm run build:linux
 ```
 
+cambio random
